@@ -3,7 +3,6 @@ TO DO:
 - transparent backgound with win32 :/
 - error handling
 - optimization
-
 */
 
 #define SDL_MAIN_HANDLED
