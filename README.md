@@ -1,5 +1,5 @@
 ## Kocielapki
-A short and a silly program, made for a friend. It simply shows a cat's paw and plays meowing sound, every time a user presses left mouse button.
+(a joke program) A short and a silly program, made for a friend. It simply shows a cat's paw and plays meowing sound, every time a user presses left mouse button.
 
 The program, uses:
 - Win32 api for creating main window, catching and handling global mouse left click event.
