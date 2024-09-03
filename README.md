@@ -7,4 +7,4 @@ The program, uses:
 - SDL2 Mixer for managing and playing sound.
 
 #### Simple explanation of how it works ####
-It uses a windows mouse hook to listen to global mouse events. If the user pressed left mouse button, it creates a borderless window with an image using SDL2 and plays and audio using SDL_mixer.
+It uses a windows mouse hook to listen to global mouse events. If the user pressed left mouse button, it creates a borderless window with an image using SDL2 and plays and audio using SDL_mixer. With time, the window with paw, lowers its visibility untill it become transparent, at which case the windows is being destroyed.
